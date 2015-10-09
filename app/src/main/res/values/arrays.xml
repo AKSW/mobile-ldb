@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="interestingProperties">
+        <item>rdf:type</item>
+        <item>dbo:abstract</item>
+        <item>foaf:depiction</item>
+        <item>dbp:locationCity</item>
+        <item>georss:point</item>
+        <item>rdfs:label</item>
+        <item>dbo:birthDate</item>
+        <item>dbo:deathDate</item>
+        <item>dbo:areaTotal</item>
+        <item>dbo:populationTotal</item>
+        <item>dbo:wikiPageDisambiguates</item>
+    </string-array>
+</resources>

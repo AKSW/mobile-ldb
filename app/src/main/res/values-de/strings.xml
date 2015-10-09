@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DBpedia</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="area">Fläche</string>
+    <string name="clear">Löschen</string>
+    <string name="date_of_birth">Geburtstag</string>
+    <string name="date_of_death">Todestag</string>
+    <string name="enter_url">Suchen oder URL eingeben</string>
+    <string name="inhabitants">Einwohner</string>
+    <string name="loading">Laden...</string>
+    <string name="population">Bevölkerung</string>
+    <string name="recent">Letzte</string>
+    <string name="title_activity_browse">DBpedia</string>
+    <string name="unknown">unbekannt</string>
+    <string name="no_network_message">Kein Internet-Zugriff. Bitte prüfen Sie ihre Netzwerk-Verbindung und versuchen Sie es erneut.</string>
+    <string name="not_found">Die angeforderte Seite wurde nicht gefunden.</string>
+    <string name="no_content">Die angeforderte Seite hat keinen Inhalt.</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="search_something">Etwas suchen</string>
+</resources>

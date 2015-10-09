@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/recent_search_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:alpha="0.6"
+        android:drawableLeft="@drawable/ic_history"
+        android:drawablePadding="16dp"
+        android:drawableStart="@drawable/ic_history"
+        android:gravity="center_vertical"
+        android:text="Medium Text"
+        android:textColor="#000"
+        android:textSize="18sp" />
+</LinearLayout>
